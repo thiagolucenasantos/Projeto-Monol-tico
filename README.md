@@ -1,2 +1,2 @@
 # Projeto-Monol-tico
-Projeto Monolítico
+Projeto Monolitico
